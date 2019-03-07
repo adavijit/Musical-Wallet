@@ -1,0 +1,158 @@
+
+select,option{
+  width: 250px;
+  background-color: transparent;
+  border: 0px solid;
+  border-color: black;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.logout{
+  margin-left: 15px;
+  padding-left: 15px;
+  background: transparent;
+  color: white;
+  width: 80px;
+  border: 0px solid;
+}
+.logout: hover{
+  background: black;
+  color: white;
+  width: 80px;
+  border: 0px solid;
+}
+.list{
+  background: transparent;
+  color: white;
+  width: 80px;
+  border: 0px solid;
+  border-radius: 2px;
+  border-color: black;
+}
+.list2{
+  background: transparent;
+  color: white;
+  width: 100px;
+  border: 0px solid;
+  border-radius: 2px;
+  border-color: black;
+}
+
+
+.div{
+
+  height: 450px;
+width: 300px;
+margin-left: 500px;
+margin-right: 500px;
+margin-top: 150px;
+border-radius: 3px 3px 3px 3px ;
+border: 2px solid #618685;
+text-align: center;
+padding-top: 50px;
+color: white;
+padding-bottom: 15px;
+}
+.div input,button{
+  background-color: transparent;
+  color: white;
+  margin-top: 5px;
+  border-radius: 3px 3px 3px 3px ;
+  border: 2px solid #618685;
+}
+
+.t1{
+  color: white;
+  /*position: absolute;*/
+
+}
+td {
+    border: none;
+    padding: 0px 2px;
+
+}
+.table{
+  margin-top: 150px;
+  padding-top: 150px;
+ /* padding-left: 100px;*/
+  margin-left:150px; 
+  border: 1px 1px 1px 1px solid;
+  border-collapse: collapse;
+}
+.table t1{
+
+}
+div.transbox {
+    overflow: auto;
+  height: 600px;
+  width: 600px;
+  margin: 30px;
+  background-color:transparent;
+  border: 2px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+.tab{
+  overflow: hidden;
+  height: 250px;
+  position: absolute;
+margin-top: 35px;
+	background-color: transparent;
+	color:white;
+
+
+}
+
+.tab2{
+    overflow: hidden;
+	background-color: transparent;
+
+
+    overflow: auto;
+
+}
+.tab2 tr td{
+  /*padding: 12px 14px;*/
+}
+.tab tr input:hover {
+background-color: white;
+	cursor: pointer;
+}
+.row-mt-15em img{
+  width: 50px;
+  height: 50px;
+  border: 0px solid;
+  border-radius: 10px;
+  border-color: black;
+  margin-top: 10px;
+  margin-left: 3px;
+  margin-bottom: 10px;
+
+}
+.row-mt-15em input{
+
+  margin-top: 10px;
+  margin-left: 3px;
+background-color: transparent;
+color: white;
+border: 1px solid;
+border-radius: 5px;
+  margin-bottom: 10px;
+
+}
+.div img{
+ margin-bottom: 20px;
+}
